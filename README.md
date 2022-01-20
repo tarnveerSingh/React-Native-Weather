@@ -22,7 +22,7 @@ Then Run it
 ```bash
 $ npm start # or yarn start
 ```
-After running it you'll see three Running Options:- 
+After running it you'll see three Running Options on left side of your browser:- 
 
 Select Option Number 3. Run in Web Browser
 
