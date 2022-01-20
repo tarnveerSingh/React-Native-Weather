@@ -1,4 +1,4 @@
-# React - weather-app
+# React-Native - Weather-app
 
 ## Table of contents
 * [Instructions](#Instructions)
