@@ -18,7 +18,7 @@ Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/e
 $ npm install # or yarn
 ```
 
-Run it
+Then Run it
 ```bash
 $ npm start # or yarn start
 ```
