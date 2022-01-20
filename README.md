@@ -12,7 +12,10 @@ First clone this repository.
 ```bash
 $ git clone https://github.com/tarnveerSingh/React-Native-Weather.git
 ```
-
+Install the command-line tools
+```bash
+$ npm install --global expo-cli
+```
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 ```bash
 $ npm install # or yarn
