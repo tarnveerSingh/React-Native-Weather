@@ -1,8 +1,32 @@
-# Weather App
+# React - weather-app
 
-To run this application please follow below instructions
+## Table of contents
+* [Instructions](#Instructions)
+* [Description](#Description)
+* [Technologies](#Technologies)
 
-1. Clone this repo with git clone or download as zip.
-2. Open the cmd or terminal and install packages by running npm install or yarn install.
-3. After the packages are installed run npm start or yarn start in cmd or terminal.
-4. After starting the server, you can select the desired platform on which you want to run your application from expo dev tool.
+
+## Instructions
+
+First clone this repository.
+```bash
+$ git clone https://github.com/tarnveerSingh/React-Native-Weather.git
+```
+
+Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
+```bash
+$ npm install # or yarn
+```
+
+Run it
+```bash
+$ npm start # or yarn start
+```
+
+## Description
+This is a simple react weather app using OpenWeatherMap API.
+ 
+## Technologies
+Project uses:
+* React-Native
+* Styled Component
