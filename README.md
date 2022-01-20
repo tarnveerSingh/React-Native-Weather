@@ -22,9 +22,12 @@ Then Run it
 ```bash
 $ npm start # or yarn start
 ```
+After running it you'll see three Running Options:- 
+
+Select Option Number 3. Run in Web Browser
 
 ## Description
-This is a simple react weather app using OpenWeatherMap API.
+This is a simple react-native weather app using OpenWeatherMap API.
  
 ## Technologies
 Project uses:
