@@ -30,7 +30,11 @@ After running it you'll see three Running Options on left side of your browser:-
 Select Option Number 3. Run in Web Browser
 
 ## Description
-This is a simple react-native weather app using OpenWeatherMap API.
+This is a simple react-native weather app using OpenWeatherMap API. 
+
+## IF I HAD MORE TIME.
+
+I forgot to hide the sensitive data, If I had more time.
  
 ## Technologies
 Project uses:
