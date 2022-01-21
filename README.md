@@ -34,7 +34,7 @@ This is a simple react-native weather app using OpenWeatherMap API.
 
 ## IF I HAD MORE TIME.
 
-I forgot to hide the sensitive data, If I had more time.
+I forgot to hide the sensitive data, for eg- API KEY.
  
 ## Technologies
 Project uses:
