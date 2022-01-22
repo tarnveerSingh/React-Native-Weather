@@ -38,7 +38,8 @@ export default function App() {
         });
     }
   };
-
+  
+//Layout for the App
   return (
     <View style={styles.container}>
       <ImageBackground source={img} style={styles.image}>
