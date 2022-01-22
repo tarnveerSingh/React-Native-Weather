@@ -4,7 +4,7 @@
 * [Instructions](#Instructions)
 * [Description](#Description)
 * [Technologies](#Technologies)
-
+* [Inline-Comments](#Inline-Comments)
 
 ## Instructions
 
@@ -32,7 +32,7 @@ Select Option Number 3. Run in Web Browser
 ## Description
 This is a simple react-native weather app using OpenWeatherMap API.
 
-## Inline comments
+## Inline-Comments
 I have explained the design in App.js by adding inline comments.
 
 ## IF I HAD MORE TIME.
