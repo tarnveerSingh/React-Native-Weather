@@ -37,7 +37,7 @@ I have explained the design in App.js by adding inline comments.
 
 ## IF I HAD MORE TIME.
 
-I forgot to hide the sensitive data, for eg- API KEY. I would hide it asap but I'm working this weekend 21 Jan - 24 Jan. I'll try to do it as soon as I get time
+I forgot to hide the sensitive data, for eg- API KEY.I would hide it asap but I'm working this weekend 21 Jan - 24 Jan. I'll try to do it as soon as I get time
  
 ## Technologies
 Project uses:
